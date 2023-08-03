@@ -3,3 +3,4 @@ Script 2-bring_me_home changes the working directory to the user's home director
 Script 3-listfiles displays the current directory contents in long format
 Script 4-listmorefiles displays currents directory contents including hidden contents using long format
 Script 5-listfilesdigitonly displays current directory contents
+Script 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
