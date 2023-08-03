@@ -14,3 +14,4 @@ Script 13-symbolic_link creates a symbolic link to /bin/ls names __ls__
 Copy all the html files in the working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer thatn the version in the parent of the working directory
 Script 100-lets_move moves all files beginning with uppercase letter to the directory /tmp/u
 Script 101-clean_emacs deletes all files in the current working directory that endswith the character ~
+Script 102-tree creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
