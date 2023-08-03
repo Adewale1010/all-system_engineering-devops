@@ -12,3 +12,4 @@ Script 11-lists lists all files (including the ones beginning with period charac
 Script 12-file_type prints the tyoe of the file names iamafile
 Script 13-symbolic_link creates a symbolic link to /bin/ls names __ls__
 Copy all the html files in the working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer thatn the version in the parent of the working directory
+Script 100-lets_move moves all files beginning with uppercase letter to the directory /tmp/u
