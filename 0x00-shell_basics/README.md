@@ -5,3 +5,4 @@ Script 4-listmorefiles displays currents directory contents including hidden con
 Script 5-listfilesdigitonly displays current directory contents
 Script 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
 Script 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first-directory
+Scrip 8-firstdelete deletes the file betty
