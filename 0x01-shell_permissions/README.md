@@ -13,3 +13,4 @@ Script 11-directories-permissions adds execute permission to all subdirectories 
 Script 12-directory_permissions creates an directory with permissions 751 in the workind directory
 Script 13-change_group changes the group owner to school for the file hello
 Script 100-change_owner_and_group changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+Script 101-symbolic_link_permissions changes the owner and group owner for the file _hello to vincent and staff respectively
