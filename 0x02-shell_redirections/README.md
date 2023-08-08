@@ -24,3 +24,4 @@ Script 22-users_and_homes displays all users and their home directories, sorted 
 Script 100-empty_casks finds all empty file and directories in the current directory and all sub-directories
 Script 101-gifs lists all the files with a .gif extension in the current directory and all sub-directories
 Script 102-acrostic decodes acrostic that use the first letter of each line
+Script 103-the_biggest_fan parses web servers logs in TSV format and displays the 11 hosts or IP addresses which did the most request
