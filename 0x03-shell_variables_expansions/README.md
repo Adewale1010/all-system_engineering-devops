@@ -11,3 +11,4 @@ Script 10-love_exponent_breath displays the result of BREATH to the power LOVE
 Script 11-binary_to_decimal coverts a number from base 2 to base 10
 Script 12-combinations prints all possible combinations of two letters, except 00
 Script 13-print_float prints a number with two decimal places, followed by a new line
+Script 100-decimal_to_hexadecimal converts a number from base 10 to base 16
