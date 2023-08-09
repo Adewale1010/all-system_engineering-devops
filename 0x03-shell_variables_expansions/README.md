@@ -5,3 +5,4 @@ Script 3-paths counts the number of directories in the PATH
 Script 4-global_variables lists environment variables
 Script 6-create_local_variables creates a new local variable
 Script 7-create_global_variable creates a new global variable
+Script 8-true_knowledge prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
