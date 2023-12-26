@@ -75,3 +75,13 @@ My solutions to Loops, conditions and parsing tasks at ALX SE.
 		    Otherwise, displays the number
 		    In a list format
 
+
+11. Read and cut 
+	Write a Bash script that displays the content of the file /etc/passwd.
+
+		Your script should only display:
+
+		    username
+		    user id
+		    Home directory path for the user
+
