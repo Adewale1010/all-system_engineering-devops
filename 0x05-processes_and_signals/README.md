@@ -36,3 +36,6 @@ My solutions to Processes and signals tasks at ALX SE.
 	    With a sleep 2 in between each iteration
 	    I am invincible!!! when receiving a SIGTERM signal
 
+
+8. Beheaded process 
+	Write a Bash script that kills the process 7-highlander.
