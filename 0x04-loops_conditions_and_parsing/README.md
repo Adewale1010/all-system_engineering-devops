@@ -85,3 +85,6 @@ My solutions to Loops, conditions and parsing tasks at ALX SE.
 		    user id
 		    Home directory path for the user
 
+
+12. Tell the story of passwd
+	Write a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
