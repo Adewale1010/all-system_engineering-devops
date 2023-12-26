@@ -19,3 +19,7 @@ My solutions to Processes and signals tasks at ALX SE.
 
 4. To infinity and beyond 
 	Write a Bash script that displays To infinity and beyond indefinitely.
+
+
+5. Don't stop me now! 
+	Write a Bash script that stops 4-to_infinity_and_beyond process.
