@@ -92,3 +92,7 @@ My solutions to Loops, conditions and parsing tasks at ALX SE.
 
 13. Let's parse Apache logs
 	Write a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
+
+
+14. Dig the data 14. Dig the data 
+	Write a Bash script that groups visitors by IP and HTTP status code, and displays this data.
