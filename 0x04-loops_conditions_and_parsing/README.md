@@ -88,3 +88,7 @@ My solutions to Loops, conditions and parsing tasks at ALX SE.
 
 12. Tell the story of passwd
 	Write a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
+
+
+13. Let's parse Apache logs
+	Write a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
