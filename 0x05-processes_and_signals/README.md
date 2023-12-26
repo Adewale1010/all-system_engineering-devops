@@ -50,3 +50,11 @@ My solutions to Processes and signals tasks at ALX SE.
 	    Displays Y U no love me?! when receiving a SIGINT signal
 	    Deletes the file /var/run/myscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal
 
+
+10. Manage my process
+	Write a manage_my_process Bash script that:
+
+	    Indefinitely writes I am alive! to the file /tmp/my_process
+	    In between every I am alive! message, the program should pause for 2 seconds
+
+	Write Bash (init) script 101-manage_my_process that manages manage_my_process. (both files need to be pushed to git)
