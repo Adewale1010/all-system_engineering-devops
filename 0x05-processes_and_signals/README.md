@@ -58,3 +58,7 @@ My solutions to Processes and signals tasks at ALX SE.
 	    In between every I am alive! message, the program should pause for 2 seconds
 
 	Write Bash (init) script 101-manage_my_process that manages manage_my_process. (both files need to be pushed to git)
+
+
+11. Zombie
+	Write a C program that creates 5 zombie processes.
