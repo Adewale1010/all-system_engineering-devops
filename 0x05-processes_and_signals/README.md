@@ -23,3 +23,8 @@ My solutions to Processes and signals tasks at ALX SE.
 
 5. Don't stop me now! 
 	Write a Bash script that stops 4-to_infinity_and_beyond process.
+
+
+6. Stop me if you can
+	Write a Bash script that stops 4-to_infinity_and_beyond process.
+
