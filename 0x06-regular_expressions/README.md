@@ -20,3 +20,9 @@ My solutions to Regular expression tasks at ALX SE
 4. Repetition Token #3
 	4-repetition_token_3.rb: Ruby script that accepts one argument and pass it to a regular expression matching method
 		Your regex should not contain square brackets
+
+
+5. Not quite HBTN yet
+	5-beginning_and_end.rb: The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between
+		Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+
