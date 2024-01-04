@@ -15,3 +15,8 @@ My solutions to Regular expression tasks at ALX SE
 
 3. Repetition Token #2
 	3-repetition_token_2.rb: Ruby script that accepts one argument and pass it to a regular expression matching method
+
+
+4. Repetition Token #3
+	4-repetition_token_3.rb: Ruby script that accepts one argument and pass it to a regular expression matching method
+		Your regex should not contain square brackets
