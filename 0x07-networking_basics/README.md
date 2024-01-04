@@ -78,3 +78,11 @@ What is an IP address?
     That only shows listening sockets
     That shows the PID and name of the program to which each socket belongs
 
+
+
+5. Is the host on the network
+	
+    Accepts a string as an argument
+    Displays Usage: 5-is_the_host_on_the_network {IP_ADDRESS} if no argument passed
+    Ping the IP 5 times
+
