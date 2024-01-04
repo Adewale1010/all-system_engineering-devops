@@ -34,3 +34,12 @@ My solutions to Regular expression tasks at ALX SE
 7. OMG WHY ARE YOU SHOUTING?
 	7-OMG_WHY_ARE_YOU_SHOUTING.rb: Regular ecpression to match only capital letters
 
+
+8. Textme
+	100-textme.rb: Your script should output: [SENDER],[RECEIVER],[FLAGS]
+
+			    The sender phone number or name (including country code if present)
+			    The receiver phone number or name (including country code if present)
+			    The flags that were used
+
+
