@@ -13,3 +13,8 @@ Requirements:
 
 1. Show attached IPs
 	Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+
+
+
+2. Port listening on localhost 
+	Bash script that listens on port 98 on localhost.
