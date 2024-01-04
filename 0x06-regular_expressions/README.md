@@ -30,3 +30,7 @@ My solutions to Regular expression tasks at ALX SE
 6. Call me maybe
 	6-phone_number.rb: Regular expression to match a 10 digit number
 
+
+7. OMG WHY ARE YOU SHOUTING?
+	7-OMG_WHY_ARE_YOU_SHOUTING.rb: Regular ecpression to match only capital letters
+
